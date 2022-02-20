@@ -1,14 +1,19 @@
 # Configuração iniciais do Cypress
 Para rodar o cypress precisa ter baixado e configurado corretamente:
+
 **1º** NPM que é responsável para interpretar os arquivos do cypress
+
 **2º** NODE.JS que é o servidor onde vai rodar o cypress
+
 **3º** VS CODE que é a ide
+
 **4º** CYPRESS
  
 **Site para baixar o NODE.JS e NPM:** https://nodejs.org/en/download/
 **Site para baixar o VS CODE:** https://code.visualstudio.com/download 
 
 **PASSOS:**
+
 **1º **Após baixar o node.js e o npm,  tem que verificar a sua versão no Console Emulator(cmder) é só usar o comando: node -v e  npm -v e essa verificação também serve para garantir que o node js e o npm foi baixado corretamente
 
 **2º **acessa a pasta do projeto no terminal, e dentro da pasta coloca o comando npm init -y para iniciar a configuração dentro do package.json
