@@ -16,9 +16,9 @@ Para rodar o cypress precisa ter baixado e configurado corretamente:
 
 **PASSOS:**
 
-**1º **Após baixar o node.js e o npm,  tem que verificar a sua versão para validar se foi baixado corretamente, e para verificar é só usar o comando: node -v e  npm -v 
+**1º** Após baixar o node.js e o npm,  tem que verificar a sua versão para validar se foi baixado corretamente, e para verificar é só usar o comando: node -v e  npm -v 
 
-**2º **acessa a pasta do projeto no terminal, e dentro da pasta coloca o comando npm init -y para iniciar a configuração dentro do package.json
+**2º** acessa a pasta do projeto no terminal, e dentro da pasta coloca o comando npm init -y para iniciar a configuração dentro do package.json
 
 **3º** adicionar o cypress como dependência do projeto dentro do projeto coloca o comando  npm install cypress, mas caso queira outra versão 
 do cypress é só rodar o comando  npm install cypress@ e a versão desejada. Exemplo: EXEMPLO: npm install cypress@9.1.0, para verificar todas as versões do cypress é só ir em sua documentação e fica dentro de  Changelog
